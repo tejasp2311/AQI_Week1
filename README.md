@@ -1,4 +1,3 @@
-# AQI_Week1
 # Air Quality Index (AQI) Prediction - Week 1
 
 This repository contains the initial steps of the AQI prediction project, covering data loading, exploration, and preprocessing.
